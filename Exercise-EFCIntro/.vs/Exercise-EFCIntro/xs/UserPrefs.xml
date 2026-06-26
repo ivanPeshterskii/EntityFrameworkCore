@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A7F32E9A-EF9E-42BF-9255-379B24F2E56F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exercise-EFCIntro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise-EFCIntro/Data/SoftUniContext.cs">
+    <Files>
+      <File FileName="Exercise-EFCIntro/StartUp.cs" />
+      <File FileName="Exercise-EFCIntro/Models/Employee.cs" />
+      <File FileName="Exercise-EFCIntro/Data/SoftUniContext.cs" Line="170" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise-EFCIntro" expanded="True">
+            <Node name="Exercise-EFCIntro" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="SoftUniContext.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
